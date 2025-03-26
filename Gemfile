@@ -11,7 +11,8 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 3.8.6"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", github: "jekyll/minima", ref: "1e8a445"
+# gem "minima", github: "jekyll/minima", ref: "1e8a445"
+gem "minima", "~> 2.5.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -32,3 +33,6 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
+
+gem "webrick", "~> 1.7.0"
+gem "kramdown-parser-gfm"
