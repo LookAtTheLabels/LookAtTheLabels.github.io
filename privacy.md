@@ -70,7 +70,7 @@ We reserve the right to update or modify this Privacy Policy at any time without
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us through the website at www.lookatthelabels.com.
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us through the website at [www.lookatthelabels.com](https://www.lookatthelabels.com).
 
 ## Effective Date
 
