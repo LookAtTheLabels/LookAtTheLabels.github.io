@@ -18,5 +18,15 @@
       "latestVersion": "1.0.24",
       "latestVersionCode": 20
     }
+  },
+  "preview": {
+    "android": {
+      "latestVersion": "1.0.24",
+      "latestVersionCode": 60
+    },
+    "ios": {
+      "latestVersion": "1.0.24",
+      "latestVersionCode": 20
+    }
   }
 }
