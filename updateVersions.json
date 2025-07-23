@@ -1,17 +1,22 @@
 {
-  "android": 
-  {
-    "latestVersion": "1.0.22",
-    "latestVersionCode": 57,
+  "production": {
+    "android": {
+      "latestVersion": "1.0.22",
+      "latestVersionCode": 57
+    },
+    "ios": {
+      "latestVersion": "1.0.22",
+      "latestVersionCode": 14
+    }
   },
-  "ios": 
-  {
-    "latestVersion": "1.0.22",
-    "latestVersionCode": 14,
-  },
-  "staging": 
-  {
-    "latestVersion": "1.0.22",
-    "latestVersionCode": 58,
-  },
+  "staging": {
+    "android": {
+      "latestVersion": "1.0.24",
+      "latestVersionCode": 60
+    },
+    "ios": {
+      "latestVersion": "1.0.24",
+      "latestVersionCode": 20
+    }
+  }
 }
